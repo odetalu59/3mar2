@@ -1,0 +1,21 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://stron.online/superjp.html/sitemap.xml
+Sitemap: https://stron.online/gojekpot.html/sitemap.xml
+Sitemap: https://stron.online/winstrike69.html/sitemap.xml
+Sitemap: https://stron.online/jagoan86.html/sitemap.xml
+Sitemap: https://stron.online/kaptenjackpot.html/sitemap.xml
+Sitemap: https://stron.online/boosterjp.html/sitemap.xml
+Sitemap: https://stron.online/kerajaanslot.html/sitemap.xml
+Sitemap: https://stron.online/viral88.html/sitemap.xml
+Sitemap: https://stron.online/clan4d.html/sitemap.xml
+Sitemap: https://stron.online/dinamit4d.html/sitemap.xml
+Sitemap: https://stron.online/viral4d.html/sitemap.xml
+Sitemap: https://stron.online/gilajp.html/sitemap.xml
